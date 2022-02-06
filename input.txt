@@ -1,0 +1,20 @@
+We hope you all had a safe and wonderful holiday break! With our teams back in the office, we’ve begun working on game fixes and improving the overall game experience – a process that will continue throughout 2022 and which could not happen without your continued feedback and support.
+
+Here is an update on some of the areas that we’re currently working on with our goal being to roll them out as soon as we can:
+
+Accolades - We know players have experienced issues with Accolades not unlocking or resetting and we understand how frustrating this can be. We’re also aware of misleading descriptions that are confusing for players. We’re continuing to work through addressing these and you’ll see more fixed in the next update.
+
+EventLab - Based on the feedback we have received from you, our top priority is introducing the ability to save and edit EventLab content post-creation. We’re currently working on this and hope to release in an upcoming update.
+
+Festival Playlist - We know the Festival Playlist has been an area of concern for Forza Horizon 5 players. We’re taking the necessary steps to ensure that future challenges and objectives can be completed by all players. In addition, we’re working on a solution to retroactively apply points for bugged Daily Challenges and Treasure Hunt events in Series 1 and Series 2. This will also unlock the “Min, Meet Max” achievement for those who had completed all other events and challenges within a series. Stay tuned for additional details.
+
+In the meantime, we’re aware of an issue that shows the incorrect total value of Series Points earned by some players when viewing a previous Series Playlist. Our team has identified that this is caused by the auto-completion of the Horizon Tour in each season and we’re currently investigating a solution.
+
+Wheels - We’re investigating numerous issues around wheel support in Forza Horizon 5, especially for the PC version. These include a crash when closing pop ups or Wheelspins with a Fanatec wheel, missing wheel mapping on the Hori Force Feedback wheel and a lack of rumble functionality that is separate to force-feedback.
+
+We’re also looking into why the handbrake for Thrustmaster and Fanatec models does not work consistently for some users, as well as a specific Logitech wheel issue in which there is no longer any force feedback produced after suspending the title.
+
+Leaderboards - We’re investigating a solution to remedy erroneous lap times and high scores being posted to Rivals and PR Stunts leaderboards. This remains a high priority for our team and we hope to introduce new safeguards to tackle the situation around cheating in the future. We don’t expect this to be a quick fix but we’re committed to ensuring the leaderboards are fair and not compromised.
+
+
+There are many more issues being worked on alongside these. As always, your feedback and input has been invaluable in tracking down and fixing the issues. We want to thank you all for your patience!
