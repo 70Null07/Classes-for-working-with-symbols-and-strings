@@ -20,6 +20,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore Classes-for-working-with-symbols-and-strings.csproj 
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build Classes-for-working-with-symbols-and-strings.csproj  --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test Classes-for-working-with-symbols-and-strings.csproj  --no-build --verbosity normal
